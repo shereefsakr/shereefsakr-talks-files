@@ -22,6 +22,8 @@
 
 - Performance —> Fullfilled
     - Response time is 50 milliseconds
+    - Throughput requirements are attached in the same folder
+    - Data sizing requirements are attached in the same folder
 - Security —> Fullfilled
     - Infrastructure
 - Prevent crawling or website scrapping —> Fullfilled
